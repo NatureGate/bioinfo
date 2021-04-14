@@ -1,6 +1,6 @@
 package com.bmb.compute.bioinfo;
 
-import com.bmb.compute.bioinfo.bean.Student;
+import com.bmb.compute.bioinfo.bt.bean.Student;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

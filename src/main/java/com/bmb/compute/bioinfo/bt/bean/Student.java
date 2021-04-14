@@ -1,10 +1,8 @@
-package com.bmb.compute.bioinfo.bean;
+package com.bmb.compute.bioinfo.bt.bean;
 
-import lombok.Getter;
-import lombok.Setter;
+import lombok.Data;
 
-@Getter
-@Setter
+@Data
 public class Student {
     private String name;
     private Integer age;
