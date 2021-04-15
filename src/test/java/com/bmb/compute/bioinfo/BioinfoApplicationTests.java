@@ -25,5 +25,6 @@ class BioinfoApplicationTests {
         List<Strain> strainList = strainMapper.selectList(null);
         org.junit.Assert.assertEquals(664, strainList.size());
         strainList.forEach(System.out::println);
+        System.out.println("ssss");
     }
 }
