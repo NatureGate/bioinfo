@@ -9,6 +9,7 @@ import java.util.List;
 
 @Service
 public class StrainSerivceImpl implements StrainService{
+
     @Autowired
     private StrainMapper strainMapper;
     @Override

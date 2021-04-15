@@ -10,4 +10,5 @@ import org.springframework.stereotype.Repository;
 @Repository
 @TableName("denovo_genome")
 public interface StrainMapper extends BaseMapper<Strain> {
+
 }

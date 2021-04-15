@@ -8,8 +8,8 @@ import org.springframework.context.annotation.Bean;
 @Setter
 public class Strain {
     private  Integer denovoId;
-    private String organismName;
-    private String organismGroups;
+    //private String organismName;
+    //private String organismGroups;
     private String strain;
     private String biosample;
     private String bioproject;
@@ -22,9 +22,9 @@ public class Strain {
     private String scaffolds;
     private String cds;
     private String releaseDate;
-    private String genbankFtp;
-    private String refseqFtp;
-    private String host;
+    //private String genbankFtp;
+    //private String refseqFtp;
+    //private String host;
     private String modifyDate;
     private Integer otherRna;
     private Integer genes;

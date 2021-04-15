@@ -1,4 +1,4 @@
-package com.bmb.compute.bioinfo.bt.web;
+package com.bmb.compute.bioinfo.bt.controller;
 
 import com.bmb.compute.bioinfo.bt.bean.Strain;
 import com.bmb.compute.bioinfo.bt.service.StrainService;
